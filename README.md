@@ -36,3 +36,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujwalchangappa&show_icons=true&locale=en&layout=compact" alt="ujwalchangappa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujwalchangappa&show_icons=true&locale=en" alt="ujwalchangappa" /></p>
+<div align="center">
+<p>Have a good day!</p>
+<div>
+<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
+</div>
+</div>
