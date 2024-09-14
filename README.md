@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm N Ujwal Changappa</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
+<div align="center" width="40">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujwalchangappa&label=Profile%20views&color=0e75b6&style=flat" alt="ujwalchangappa" /> </p>
 
