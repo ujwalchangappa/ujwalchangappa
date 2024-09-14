@@ -16,6 +16,10 @@
 - 📫 How to reach me **ujwalchangappa288@gmail.com**
 
 - ⚡ Fun fact **Code ninja by day, coffee enthusiast by night!**
+  
+  if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/ujwal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
